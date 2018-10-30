@@ -1,6 +1,6 @@
 def turn_count ( turn )
   
-  array.length 
+  move count = [] 
   
 end
 
