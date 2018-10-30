@@ -5,6 +5,9 @@ def turn_count ( turn )
     if unit == "X" || unit == "O"
       move_count << 1 
   }
-  move_count. 
+  move_count.length 
+  
 end
+
+
 
