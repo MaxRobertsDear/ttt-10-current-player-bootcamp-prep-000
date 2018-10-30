@@ -4,8 +4,7 @@ def turn_count ( turn )
   turn.each { |unit| 
     if unit == "X" || unit == "O"
       move_count << 1 
-  
-    
   }
+  move_count. 
 end
 
