@@ -1,4 +1,4 @@
-def turn_count ( array )
+def turn_count ( turn )
   
   array.length 
   
