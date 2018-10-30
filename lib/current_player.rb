@@ -1,3 +1,6 @@
-def turn_count ( parameter )
+def turn_count ( array )
+  
+  array.length 
   
 end
+
